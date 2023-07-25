@@ -15,7 +15,7 @@
 <a href="https://www.codechef.com/users/widohe7779">
   <img align="left" alt="Saurav's Codechef" width="24px" src="res/codechef.png" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=kabuki07&color=blue&style=for-the-badge&label=visitors" align="left">
+<img src="https://komarev.com/ghpvc/?username=SauravBoro&color=blue&style=for-the-badge&label=visitors" align="left">
 <br/>
 <br/>
 
@@ -32,9 +32,9 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kabuki07&show_icons=true&theme=blueberry&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabuki07&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SauravBoro&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravBoro&theme=blueberry&hide_border=true" />
 </p>
 <br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/kabuki07/kabuki07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kabuki07/kabuki07/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/SauravBoro/SauravBoro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/SauravBoro/SauravBoro/output/github-contribution-grid-snake.svg#gh-light-mode-only)
